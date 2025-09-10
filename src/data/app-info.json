@@ -1,0 +1,65 @@
+{
+  "empresa": {
+    "nombre": "Marvel Entertainment",
+    "descripcion": "Empresa de entretenimiento que proporciona la API oficial de Marvel",
+    "website": "https://developer.marvel.com/"
+  },
+  "aplicacion": {
+    "nombre": "Marvel App",
+    "descripcion": "Aplicación web interactiva que te permite explorar el vasto universo de Marvel. Utilizando la API oficial de Marvel, puedes descubrir información detallada sobre tus personajes favoritos, sus comics, series y eventos.",
+    "version": "1.0.0",
+    "tipo": "Single Page Application (SPA)",
+    "proposito": "Exploración del universo Marvel",
+    "caracteristicas": [
+      "Exploración de personajes de Marvel",
+      "Información detallada con modales interactivos",
+      "Diseño completamente responsivo",
+      "Interfaz moderna y atractiva",
+      "Navegación rápida y fluida"
+    ],
+    "funcionalidades": [
+      "Búsqueda de personajes",
+      "Visualización de comics",
+      "Exploración de series",
+      "Información de eventos",
+      "Datos de creadores",
+      "Historias relacionadas"
+    ]
+  },
+  "tecnologias": {
+    "frontend": {
+      "framework": "React",
+      "lenguaje": "TypeScript",
+      "bundler": "Vite",
+      "styling": "Tailwind CSS",
+      "routing": "React Router"
+    },
+    "backend_api": {
+      "api_externa": "Marvel API",
+      "http_client": "Fetch API",
+      "seguridad": "MD5 Hashing"
+    },
+    "herramientas_desarrollo": [
+      "ESLint",
+      "TypeScript Compiler",
+      "Vite Dev Server"
+    ]
+  },
+  "desarrollador": {
+    "rol": "Desarrollador Frontend",
+    "enfoque": "Crear una experiencia de usuario moderna y atractiva para explorar el universo Marvel",
+    "habilidades": [
+      "React Development",
+      "TypeScript",
+      "API Integration",
+      "Responsive Design",
+      "Modern JavaScript"
+    ]
+  },
+  "metadata": {
+    "fecha_creacion": "2025-09-09",
+    "ultima_actualizacion": "2025-09-09",
+    "licencia": "Uso educativo",
+    "estado": "En desarrollo"
+  }
+}
